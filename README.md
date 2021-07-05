@@ -1,3 +1,7 @@
 # SmartFoods
 
-Will contrain updates to the SmartFoods project from the origonal branch
+Restored a program from a group project created during uni.
+
+No database connection, due to only being hosted temporarily for the project.
+
+Updates will be in the Master Branch
