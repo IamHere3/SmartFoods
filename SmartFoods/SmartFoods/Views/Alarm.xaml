@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartFoods.Views.Alarm">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout VerticalOptions="Start">
+
+                    <!--<TimePicker    
+                        FontSize="Large"
+                        Margin="15,30,0,0"
+                        HorizontalOptions = "Center"
+                        /> removed SW 31.10.18 -->
+
+                    <Entry Margin="150, 30, 150, 0" x:Name="NewTimer"></Entry>
+
+                    <Button x:Name="addAlarmBtn"
+                            FontSize="{Binding Header}"
+                            FontAttributes = "Bold" 
+                            Margin="40,10,40,0"
+                            Clicked="AddAlarmButton_Clicked"
+                        />
+
+                </StackLayout>
+                <StackLayout VerticalOptions="Center">
+                    <Label  x:Name="alarmListLabel"
+                            FontSize="{Binding Header}"
+                            FontAttributes = "Bold" 
+                            HorizontalTextAlignment="Center"                           
+                            />
+                    <Grid x:Name="TimersGrid"
+                        Margin="30,0,30,0"
+                        >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+
+
+
+
+                        <!--<Label
+                            Text="11:40"
+                            FontSize="Large"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="3"
+                            VerticalTextAlignment="Center"
+                            />
+                        moved this down slightly
+
+                        <Button
+                            Text="X"
+                            FontSize="Medium"
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            />-->
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
