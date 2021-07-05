@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartFoods.Views.Ingredients"
+             x:Name="IngTitle">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout VerticalOptions="Start">
+
+                    <!--<TimePicker    
+                        FontSize="Large"
+                        Margin="15,30,0,0"
+                        HorizontalOptions = "Center"
+                        /> removed SW 31.10.18 -->
+
+                    <!-- <Entry Margin="150, 30, 150, 0" x:Name="NewTimer"></Entry>-->
+
+                    <Grid Margin="0, 0, 0, 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Label  x:Name="ingredientLabel"
+                                Text="Ingredient:"
+                                FontSize="{Binding Header}"
+                                FontAttributes = "Bold"
+                                Margin="10"
+                                HorizontalTextAlignment="Center"
+                                Grid.Row="1"
+                                Grid.Column="0">
+                        </Label>
+                        <Label  x:Name="qtyLabel"
+                                Text="Qty"
+                                FontSize="{Binding Header}"
+                                FontAttributes = "Bold"
+                                HorizontalTextAlignment="Center"
+                                Grid.Row="1"
+                                Grid.Column="1">
+                        </Label>
+                        <Label  x:Name="unitLabel"
+                                Text="Unit"
+                                FontSize="{Binding Header}"
+                                FontAttributes = "Bold"
+                                HorizontalTextAlignment="Center"
+                                Grid.Row="1"
+                                Grid.Column="2">
+                        </Label>
+
+
+                        <Picker x:Name="IngredientsPicker"
+                                Grid.Row="1"
+                                Grid.Column="0"
+                                WidthRequest="150"
+                                VerticalOptions="End"
+                                HorizontalOptions="Center"
+                                >
+
+                        </Picker>
+                        <Entry x:Name="QtyEntry"
+                               Grid.Row="1"
+                               Grid.Column="1"
+                               WidthRequest="40"
+                               VerticalOptions="End"
+                               HorizontalTextAlignment="Center"
+                               HorizontalOptions="Center">
+                        </Entry>
+                        <Entry x:Name="UnitEntry"
+                               Grid.Row="1"
+                               Grid.Column="2"
+                               WidthRequest="80"
+                               HorizontalTextAlignment="Center"
+                               VerticalOptions="End"
+                               HorizontalOptions="Center">
+                        </Entry>
+                        <Button Margin="10"
+                                Grid.Row="1"
+                                Grid.Column="3"
+                                Text="+"
+                                Clicked="NewIngredientBtn_Clicked">
+                        </Button>
+                    </Grid>
+                </StackLayout>
+
+                <StackLayout VerticalOptions="Center">
+                    <Label  x:Name="myIngredientsLabel"
+                            Margin="20"
+                            Text="My Ingredients"
+                            FontSize="{Binding Header}"
+                            FontAttributes = "Bold" 
+                            HorizontalTextAlignment="Center"                           
+                            />
+                    <Grid x:Name="IngredientsGrid"
+                        Margin="30,0,30,0"
+                        >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*" />
+
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+
+
+
+
+                        <!--<Label
+                            Text="11:40"
+                            FontSize="Large"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="3"
+                            VerticalTextAlignment="Center"
+                            />
+                        moved this down slightly
+
+                        <Button
+                            Text="X"
+                            FontSize="Medium"
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="2"
+                            />-->
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

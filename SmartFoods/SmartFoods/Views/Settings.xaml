@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartFoods.Views.Settings"
+             Title = "Settings">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="difficulty"
+                    SelectedIndexChanged="Difficulty_SelectedIndexChanged"
+                    Margin = "15, 20, 0, 0">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                        <x:String>4</x:String>
+                        <x:String>5</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <Picker x:Name="theme"
+                    SelectedIndexChanged="Theme_SelectedIndexChanged"
+                    Margin = "15, 20, 0, 0">
+            </Picker>
+
+            <Grid
+                Margin="0, 0, 15, 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="75"/>
+                </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+                <Label
+                    x:Name="languagelabel"
+                    FontAttributes="Bold"
+                    FontSize = "15"
+                    HorizontalTextAlignment = "Center"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    Grid.RowSpan="3"
+                    >                    
+                </Label>
+
+                <Image
+                    Source="english_button.png"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    >
+                </Image>
+
+                <Image
+                    x:Name="EnglishButton"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    >
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="English_Clicked"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    Source="italian_button.png"
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    >
+                </Image>
+
+                <Image
+                    x:Name="ItalianButton"
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    >
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Italian_Clicked"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="SaveButton"
+                    Margin = "15, 20, 0, 0"
+                    Grid.Row="4"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Save_Clicked"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+            </Grid>
+        
+        
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

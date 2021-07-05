@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartFoods.Views.ItemsPage"
+             Title="SmartFoods"
+             x:Name="BrowseItemsPage">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+
+
+                <Image
+                    x:Name="myKitchen"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="MyKitchen"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="myRecipes"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Recipes"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="myIngredients"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Ingredients"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="myFavourites"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Favourites"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="mySettings"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Settings"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

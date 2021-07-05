@@ -1,0 +1,475 @@
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.dll
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods.apk
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods-Signed.apk
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.nuget.stamp
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csprojAssemblyReference.cache
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res.flag
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CoreCompileInputs.cache
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\XamlC.stamp
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CopyComplete
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.dll
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\bin\com.companyname.SmartFoods.apk
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\tabbar.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\toolbar.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\styles.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\colors.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\xamarin_logo.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\logo.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\english_button.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italian_button.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\placeholdertwo.jpg
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\placeholderone.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ingredientsbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwave1.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwave2.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterunslected.png
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.cs.flag
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.txt
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\uploadflags.txt
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\mscorlib.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Data.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Net.Http.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Numerics.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Transactions.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Web.Services.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.Linq.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IdentityModel.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\mscorlib.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IdentityModel.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Data.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\mscorlib.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IdentityModel.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Data.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csprojAssemblyReference.cache
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res.flag
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.dll
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods.apk
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods-Signed.apk
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.nuget.stamp
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CoreCompileInputs.cache
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\XamlC.stamp
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CopyComplete
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.dll
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\bin\com.companyname.SmartFoods.apk
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\styles.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\colors.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\xamarin_logo.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\logo.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\english_button.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italian_button.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\placeholdertwo.jpg
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\placeholderone.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner2.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ingredientsbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner2.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner2.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner2.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner2.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.cs.flag
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.txt
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\uploadflags.txt
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\mscorlib.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Data.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IdentityModel.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Net.Http.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Numerics.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Transactions.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Web.Services.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.Linq.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IdentityModel.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.Android.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IdentityModel.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Security.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterunselected.png
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.nuget.stamp
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csprojAssemblyReference.cache
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods.apk
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\com.companyname.SmartFoods-Signed.apk
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res.flag
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CoreCompileInputs.cache
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\XamlC.stamp
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.csproj.CopyComplete
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\SmartFoods.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\bin\com.companyname.SmartFoods.apk
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\styles.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\values\colors.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\xamarin_logo.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\logo.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\english_button.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italian_button.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\placeholdertwo.jpg
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favouritesbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ingredientsbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\mykitchenbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\recipesbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\settingsbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\timerbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\hobunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\kettleunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\microwaveunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ovenunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\panunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\potunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\roastingtinunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\toasterunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.cs.flag
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\R.txt
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\uploadflags.txt
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\fivestardifficulty.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\fourstardifficulty.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\onestardifficulty.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\threestardifficulty.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\twostardifficulty.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\mscorlib.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IdentityModel.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Net.Http.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Xml.Linq.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Data.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Numerics.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Transactions.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.Web.Services.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Mono.Security.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IdentityModel.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\SmartFoods.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\SmartFoods.Android.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IdentityModel.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\ingredientsbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\saveita.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\saveita2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\save.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\save2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favorite.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\favoriteselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianfavorite.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianfavoriteselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiansettingsbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiansettingsbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianfavouritesbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianfavouritesbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianrecipesbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianrecipesbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianingredientsbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianingredientsbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianmykitchenbanner2.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianmykitchenbanner.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianhobunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianhobselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianovenunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianpanunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianovenselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianpanselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianmicrowaveunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianmicrowaveselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiankettleunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiankettleselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianroastingtinselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianroastingtinunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiantoasterselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italiantoasterunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianpotunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianpotselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\englishselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\italianunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\res\drawable\englishunselected.png
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\SmartFoods.dll.mdb
+D:\University\SmartFoods\SmartFoods\SmartFoods.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

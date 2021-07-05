@@ -1,0 +1,184 @@
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favorites.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+G:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ChrisApp\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CopyComplete
+C:\Users\FiercePC\Desktop\SmartFoods_Fixed\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+E:\uni year two\Project\CurrentSolution\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+E:\uni year two\Project\CurrentSolution\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\RecipeInstructions.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+D:\University\backup\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\InstructionPage.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+D:\University\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+D:\University\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+D:\University\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.deps.json
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.dll
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\bin\Debug\netstandard2.0\SmartFoods.pdb
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csprojAssemblyReference.cache
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\InstructionPage.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\XamlC.stamp
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.dll
+F:\SOLUTION\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.pdb
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Alarm.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Favourites.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Ingredients.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\InstructionPage.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\MyKitchen.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Recipes.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\Views\Settings.xaml.g.cs
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Documents\Developing programs\Visual studio\SmartFoods\SmartFoods\SmartFoods\obj\Debug\netstandard2.0\SmartFoods.AssemblyInfo.cs

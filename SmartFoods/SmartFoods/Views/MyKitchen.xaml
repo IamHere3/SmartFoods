@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SmartFoods.Views.MyKitchen"
+             x:Name="KitTitle">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label 
+                    Margin="15,0,0,0"  
+                    Text="Avalible Pots and Pans"
+                    FontSize="{StaticResource TextHeader}"
+                    FontAttributes = "Bold" 
+                />
+                <BoxView 
+                    HeightRequest="1" 
+                    Color="Black" 
+                    AbsoluteLayout.LayoutBounds="10, 0, 0, 0"
+                />
+
+                <!-- Pots and Pans -->
+
+                <Image
+                    x:Name="Potstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    >
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Pots_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="Panstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Pans_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+
+
+                <!-- Appliances -->
+
+                <Label 
+                    Margin="15,0,0,0" 
+                    Text="Appliances"
+                    FontSize="{StaticResource TextHeader}"
+                    FontAttributes = "Bold" 
+                />
+
+                <BoxView 
+                    HeightRequest="1"
+                    Color="Black"
+                    AbsoluteLayout.LayoutBounds="10, 0, 0, 0"
+                    />
+
+                <Image
+                    x:Name="Ovenstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 30, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="MyOven_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="Microwavestoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="MyMicrowave_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="Kettlestoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="MyKettle_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="Hobstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Hob_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Image
+                    x:Name="Toasterstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Toaster_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <!-- Other -->
+
+                <Label 
+                    Margin="15,0,0,0"
+                    Text="Other"
+                    FontSize="{StaticResource TextHeader}"
+                    FontAttributes = "Bold" 
+                    />
+
+                <BoxView 
+                    HeightRequest="1"
+                    Color="Black" 
+                    AbsoluteLayout.LayoutBounds="10, 0, 0, 0"
+                    />
+
+                <Image
+                    x:Name="RoastingTinstoggle"
+                    WidthRequest="250"
+                    HeightRequest="50"
+                    HorizontalOptions = "Center"
+                    VerticalOptions="Start" 
+                    Margin="0, 10, 0, 0">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="RoastingTins_OnChanged"></TapGestureRecognizer>
+                    </Image.GestureRecognizers>
+                </Image>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
